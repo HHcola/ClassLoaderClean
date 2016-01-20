@@ -1,0 +1,2 @@
+# ClassLoaderClean
+修改dalvik中DvmGlobals中的classloader，根据libdvm获取全局变量gDvm，修改其中的参数。
